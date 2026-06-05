@@ -1,0 +1,44 @@
+{
+  "rules": [
+    {
+      "name": "Scholarship Rule",
+      "if": {
+        "gpa": ">=3.5",
+        "attendance": ">80",
+        "disciplinary": "No"
+      },
+      "then": "Eligible for Scholarship"
+    },
+    {
+      "name": "Graduation Rule",
+      "if": {
+        "gpa": ">3.0",
+        "prerequisites": "Completed",
+        "fees": "No"
+      },
+      "then": "Eligible for Graduation"
+    },
+    {
+      "name": "Probation Rule",
+      "if": {
+        "gpa": "<3.0"
+      },
+      "then": "Academic Probation"
+    },
+    {
+      "name": "Registration Block Rule",
+      "if": {
+        "fees": "Yes"
+      },
+      "then": "Registration Blocked"
+    },
+    {
+      "name": "Dean's List Rule",
+      "if": {
+        "gpa": ">=3.5",
+        "attendance": ">80"
+      },
+      "then": "Dean's List Candidate"
+    }
+  ]
+}

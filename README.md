@@ -127,21 +127,22 @@ Goal → Rule Conditions → Facts Verification
 
 
 ### Forward Chaining Output
-![alt text](test_case1.png)
-
-![alt text](image-1.png)
+[text](screen_shots)
+![alt text](screen_shots/test_case1.png)
+--
+![alt text](screen_shots/test_case2.png)
 
 
 ### Backward Chaining Output
-![alt text](image-2.png)
-
+[text](screen_shots)
+![alt text](screen_shots/test_case4.png)
 
 
 
 ### Inference Flow Diagram
 
-![alt text](image-3.png)
-
+[text](Diagrams)
+![alt text](Diagrams/Inference_flow.png)
 ---
 
 

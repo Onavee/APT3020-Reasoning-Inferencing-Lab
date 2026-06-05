@@ -129,7 +129,7 @@ Goal → Rule Conditions → Facts Verification
 ### Forward Chaining Output
 [text](screen_shots)
 ![alt text](screen_shots/test_case1.png)
---
+
 ![alt text](screen_shots/test_case2.png)
 
 
@@ -142,9 +142,8 @@ Goal → Rule Conditions → Facts Verification
 ### Inference Flow Diagram
 
 [text](Diagrams)
-![alt text](Diagrams/Inference_flow.png)
----
 
+![alt text](<Diagrams/Inference_flow copy.png>)
 
 
 ## Sample Input

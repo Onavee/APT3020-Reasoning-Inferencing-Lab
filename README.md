@@ -6,7 +6,6 @@ This project implements a rule-based expert system that acts as an academic advi
 
 The project demonstrates the use of Artificial Intelligence reasoning techniques, specifically Forward Chaining and Backward Chaining inference.
 
----
 
 ## Problem Statement
 
@@ -14,7 +13,6 @@ Universities must evaluate students for various academic outcomes such as schola
 
 Manual evaluation of these conditions can be time-consuming and inconsistent. This project automates the decision-making process by applying a set of predefined academic rules to student information.
 
----
 
 ## Knowledge Base
 
@@ -44,7 +42,7 @@ The following attributes are considered:
 }
 ```
 
----
+
 
 ## Rules Implemented
 
@@ -103,7 +101,7 @@ THEN:
 
 * Dean's List Candidate
 
----
+
 
 ## Reasoning Methods Used
 
@@ -123,7 +121,7 @@ Example:
 
 Goal → Rule Conditions → Facts Verification
 
----
+
 
 
 ### Forward Chaining Output
@@ -156,7 +154,7 @@ Prerequisites = Completed
 Fees = No
 ```
 
----
+
 
 ## Sample Output
 
@@ -182,7 +180,7 @@ Rule      : Scholarship Rule
 Message   : Goal is satisfied
 ```
 
----
+
 
 
 
